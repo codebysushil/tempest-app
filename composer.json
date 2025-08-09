@@ -1,10 +1,11 @@
 {
     "name": "tempest/app",
     "require": {
-        "tempest/framework": "^1.2",
+        "tempest/framework": "^1.6",
         "nette/php-generator": "^4.2",
         "nette/utils": "^4.0",
-        "giggsey/libphonenumber-for-php-lite": "^9.0"
+        "giggsey/libphonenumber-for-php-lite": "^9.0",
+        "filp/whoops": "^2.18"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.2 || ^11.5.15",
