@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace App\Controllers;
 
 use Tempest\Router\Get;
 use Tempest\View\View;

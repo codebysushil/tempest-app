@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App;
+namespace App\Controllers;
 
 use Tempest\Router\Get;
 use Tempest\View\View;
